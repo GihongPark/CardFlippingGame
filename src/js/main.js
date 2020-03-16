@@ -5,7 +5,7 @@ const cardLevel = [
     {hor: 4, ver: 4},
     {hor: 5, ver: 4},
 ];
-let level = 3;
+let level = 0;
 
 // 카드 세팅
 function cardSetting() {
